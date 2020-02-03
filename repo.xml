@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/mycrstore</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>Support</name>
+			<url>https://gmail.com</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+	</footerlinks>
+</repo>

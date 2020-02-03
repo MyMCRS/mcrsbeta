@@ -1,0 +1,21 @@
+<package>
+	<id>com.mcrsbeta.badgebar</id>
+	<name>BadgeBar</name>
+	<version>1.0.7.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>libpackageinfo (SparkDev), CracksCompatibility</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Get rid of the ugly notification badges. NOTE: DO NOT INSTALL IF YOU DON'T KNOW HOW TO GET OUT OF SAFEMODE, IF YOU GET INTO SAFEMODE PLEASE DELETE THE SETTINGSFILE WITH FILZA /VAR/MOBILE/LIBRARY/PREFERENCES/COM.JANNIKCRACK.BADGEBARPREFS.PLIST AND RESPRING MAYBE THIS IS CAUSING THE SAFEMODE FOR SOME OF YOU, PLEASE TRY AND TELL ME IF IT WORKED OR NOT WORKED</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>No Changes</change>
+	</changelog>
+	<links></links>
+</package>

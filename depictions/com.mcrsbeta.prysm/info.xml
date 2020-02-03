@@ -1,0 +1,21 @@
+<package>
+	<id>com.mcrsbeta.prysm</id>
+	<name>Prysm Beta 5</name>
+	<version>0.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>libpackageinfo (SparkDev), CracksCompatibility</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Your Control Centre, Reimagined.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Fixes Bugs, Adds All CC Modules Support, Adds Prefrence Panel to Settings</change>
+	</changelog>
+	<links></links>
+</package>

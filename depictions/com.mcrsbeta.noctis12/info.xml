@@ -1,0 +1,21 @@
+<package>
+	<id>com.mcrsbeta.noctis12</id>
+	<name>Noctis 12</name>
+	<version>1.8.9.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>libpackageinfo (SparkDev), CracksCompatibility</package>
+	</dependencies>
+	<descriptionlist>
+		<description>iOS 12 Dark Mode</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>No Changes</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1,0 +1,21 @@
+<package>
+	<id>com.mcrsbeta.noctisneo</id>
+	<name>Noctis Neo</name>
+	<version>1.2.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>libpackageinfo (SparkDev), CracksCompatibility</package>
+	</dependencies>
+	<descriptionlist>
+		<description>iOS Dark Mode Customisation Tweak</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>No Changes</change>
+	</changelog>
+	<links></links>
+</package>

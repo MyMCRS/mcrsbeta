@@ -1,0 +1,21 @@
+<package>
+	<id>com.mcrsbeta.mcrstheme</id>
+	<name>MCRS Theme</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Snowboard</package>
+	</dependencies>
+	<descriptionlist>
+		<description>MCRS was made to make iOS look like the future.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Fixed apps not changing to theme</change>
+	</changelog>
+	<links></links>
+</package>
