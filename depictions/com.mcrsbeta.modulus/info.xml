@@ -1,0 +1,21 @@
+<package>
+	<id>com.mcrsbeta.modulus</id>
+	<name>Modulus</name>
+	<version>1.1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, libpackageinfo (SparkDev), CracksCompatibility</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Description not set. iOS Compatibility may be wrong</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>No Changes</change>
+	</changelog>
+	<links></links>
+</package>
